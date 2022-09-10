@@ -42,3 +42,4 @@ make -C BaseTools/
 1. https://github.com/tianocore/edk2
 2. https://github.com/tianocore/tianocore.github.io/wiki/Getting-Started-with-EDK-II
 3. https://damn99.com/2020-05-14-edk2-build-introduction/
+4. https://damn99.com/2020-05-18-edk2-first-app/
