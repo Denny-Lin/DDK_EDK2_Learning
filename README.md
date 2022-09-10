@@ -14,6 +14,9 @@ commit 970e26294905d2d27369cf4041c6778105754f5e (HEAD -> master, origin/master, 
 ```sh
 git clone https://github.com/tianocore/edk2.git
 ```
+![Screen Shot 2022-09-11 at 2 58 40 AM](https://user-images.githubusercontent.com/67073582/189497871-1c09b999-637c-4546-802a-4749094717b5.png)
+
+![Screen Shot 2022-09-11 at 2 59 19 AM](https://user-images.githubusercontent.com/67073582/189497894-f438adc1-9243-4c48-a0d2-4084c1040870.png)
 
 ```sh
 source edksetup.sh
