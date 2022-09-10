@@ -1,4 +1,4 @@
-# DDK_How_To_Build_EDK2
+# DDK_EDK2_Learning
 To introduce how to build edk2 on Ubuntu 20.04.
 
 # Environment
