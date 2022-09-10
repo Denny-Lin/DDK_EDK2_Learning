@@ -8,5 +8,5 @@ To introduce how to build edk2 on Ubuntu.
 # Let us get started 
 
 # References
-1. 
+1. https://github.com/tianocore/edk2
 2. 
