@@ -35,8 +35,7 @@ make -C BaseTools/
 ```
 ![Screen Shot 2022-09-11 at 2 27 11 AM](https://user-images.githubusercontent.com/67073582/189497272-91b44b89-c930-415b-a2ca-3618e54620ff.png)
 
-# Our first EDK2 app
-...</br>
+# ArmVirtPkg
 
 # References
 1. https://github.com/tianocore/edk2
