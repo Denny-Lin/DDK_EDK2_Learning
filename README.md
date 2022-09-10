@@ -2,7 +2,8 @@
 To introduce how to build edk2 on Ubuntu 20.04.
 
 # Environment
-1. Ubuntu 20.04.4 LTS
+1. Mac silicon
+2. Ubuntu 20.04.4 LTS (Parallel)
 
 # Let us get started 
 Download some required packages before we start to build. </br>
